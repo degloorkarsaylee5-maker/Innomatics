@@ -1,0 +1,16 @@
+Name: Alice Johnson
+
+Skills:
+Python, Machine Learning, Artificial Intelligence, SQL, Deep Learning
+
+Experience:
+- Built multiple machine learning models for prediction
+- Worked on AI-based recommendation systems
+- Developed data pipelines using Python and SQL
+
+Projects:
+- Customer churn prediction using ML
+- Image classification using deep learning
+
+Education:
+B.Tech in Computer Science

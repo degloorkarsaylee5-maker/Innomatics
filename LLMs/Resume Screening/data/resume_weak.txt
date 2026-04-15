@@ -1,0 +1,14 @@
+Name: Charlie Brown
+
+Skills:
+MS Excel, Communication, Teamwork
+
+Experience:
+- Worked in customer support
+- Basic reporting using Excel
+
+Projects:
+- None
+
+Education:
+BA in Arts

@@ -1,0 +1,12 @@
+We are looking for a Data Scientist with strong programming and analytical skills.
+
+Requirements:
+- Proficiency in Python
+- Experience with Machine Learning and AI
+- Knowledge of SQL and data handling
+- Familiarity with data visualization tools
+- Strong problem-solving skills
+
+Preferred:
+- Experience with deep learning
+- Knowledge of cloud platforms

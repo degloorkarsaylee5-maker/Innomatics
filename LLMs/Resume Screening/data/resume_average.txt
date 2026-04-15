@@ -1,0 +1,14 @@
+Name: Bob Smith
+
+Skills:
+Python, SQL, Data Analysis
+
+Experience:
+- Worked on data cleaning and analysis
+- Created dashboards using Python
+
+Projects:
+- Sales data analysis project
+
+Education:
+B.Sc in Information Technology
